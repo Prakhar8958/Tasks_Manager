@@ -1,0 +1,5 @@
+com\example\Tasks\Service\package-info.class
+com\example\Tasks\Config\package-info.class
+com\example\Tasks\Controller\package-info.class
+com\example\Tasks\Repository\package-info.class
+com\example\Tasks\Entity\package-info.class
